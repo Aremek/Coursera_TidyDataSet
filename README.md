@@ -30,6 +30,6 @@ Analysis of accelerometer data generated from an experiment with Samsung Galaxy 
 
   2. Place the `run_analysis.R` file in the same folder, set it as working directory
   
-  3. Read through the [CodeBook](CodeBook.md) and the [run_analysis.R](run_analysis.R) script to get an overview of the project, all the steps taken during the analysis, and the output file
+  3. Read through the [CodeBook](Codebook.md) and the [run_analysis.R](run_analysis.R) script to get an overview of the project, all the steps taken during the analysis, and the output file
 
   5. Run the `run_analysis.R` script
